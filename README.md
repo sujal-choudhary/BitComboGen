@@ -74,7 +74,7 @@ See the full code here: [TruthTableGenerator.ino](TruthTableGenerator.ino)
 ---
 
 ## 📸 Circuit Diagram
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](Screenshot 2025-08-24 112941.png)
 
 
 ---
